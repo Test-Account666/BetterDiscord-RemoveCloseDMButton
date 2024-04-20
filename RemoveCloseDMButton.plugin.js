@@ -7,7 +7,7 @@
  * @version 1.0.0
  * @invite N/A
  * @source https://github.com/TheBlackEntity/BetterDiscord-RemoveCloseDMButton
- * @updateUrl N/A
+ * @updateUrl https://raw.githubusercontent.com/TheBlackEntity/BetterDiscord-RemoveCloseDMButton/master/RemoveCloseDMButton.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
